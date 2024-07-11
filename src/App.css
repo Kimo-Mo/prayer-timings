@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;200;300;400;500;600;700&display=swap");
+
+html {
+  overflow-x: hidden;
+  direction: rtl;
+  font-family: "IBM Plex Sans Arabic", sans-serif !important;
+}
+body{
+  min-height: 100vh;
+}
+fieldset {
+  border-color: white !important;
+}
+.MuiOutLinedInput-notChedOutLine,
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-color: whitesmoke !important;
+}
+.MuiSvgIcon-root {
+  color: white !important;
+}
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,
+#demo-simple-select,
+.MuiButtonBase-root {
+  font-family: "IBM Plex Sans Arabic", sans-serif !important;
+}
